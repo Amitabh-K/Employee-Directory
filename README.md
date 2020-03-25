@@ -7,6 +7,10 @@ The user will be able to search an employee directory  and can sort by,  Name, 	
 
 Open [https://amitabh-emp-tracker.herokuapp.com/](https://amitabh-emp-tracker.herokuapp.com/) to view it in the browser.
 
+## Usage demo
+
+![Usage demo](./src/demo.gif)
+
 
 # Technologies-Libraries
 
