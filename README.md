@@ -1,10 +1,16 @@
 # Employee Directory
 
 This app displays an employee directory with React. The application UI's are broken up into components and are the state is managed by user response and input.
+The user will be able to search an employee directory  and can sort by,  Name, 	Phone, Email, and DOB.
 
 ### `Diployed at`
 
 Open [https://amitabh-emp-tracker.herokuapp.com/](https://amitabh-emp-tracker.herokuapp.com/) to view it in the browser.
+
+
+# Technologies-Libraries
+
+JavaScript, ES6 Classes (OOP) - CSS - HTML - React.js - Bootstrap
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
