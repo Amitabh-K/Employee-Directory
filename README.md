@@ -1,3 +1,6 @@
+[![HitCount](http://hits.dwyl.com/Amitabh-K/Employee-Directory.svg)](http://hits.dwyl.com/Amitabh-K/Employee-Directory)
+
+
 # Employee Directory
 
 This app displays an employee directory with React. The application UI's are broken up into components and are the state is managed by user response and input.
